@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 
-python3 -o $PYFILE
+python3 $PYFILE
+
