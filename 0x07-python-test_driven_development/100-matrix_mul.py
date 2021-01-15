@@ -4,7 +4,7 @@
 
 def matrix_mul(m_a, m_b):
     """
-    Represents a funtion that multiplies two matrices.
+    Multiplies two matrices.
 
     Args:
         m_a: first matrix to multiply.
