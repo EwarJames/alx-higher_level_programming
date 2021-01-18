@@ -1,0 +1,1 @@
+This directory contains file for the Python-inheritance project
