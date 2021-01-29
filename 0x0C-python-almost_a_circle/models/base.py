@@ -144,7 +144,7 @@ class Base:
     def draw(list_rectangle, list_square):
         """
         Draw Rectangles and Squares using the turtle module.
-        
+
         Args:
             list_rectangles (list): A list of Rectangle objects to draw.
             list_squares (list): A list of Square objects to draw.
