@@ -14,4 +14,4 @@ if __name__ == "__main__":
     value = {"email": sys.argv[2]}
 
     req = requets.post(url, data=value)
-    print(request.text)
+    print(req.text)
