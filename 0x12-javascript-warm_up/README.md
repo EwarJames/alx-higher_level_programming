@@ -1,1 +1,1 @@
-This directory contains files for the project javascript-warm_up
+This directory contains files for the project javascript warm up
