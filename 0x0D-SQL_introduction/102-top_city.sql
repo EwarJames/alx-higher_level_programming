@@ -1,6 +1,6 @@
 -- displays top three cities temperatures between July and August
 -- Ordered by temperatures descending
-SELECT `citty`, AVG(`value`) AS `avg_temp`
+SELECT `city`, AVG(`value`) AS `avg_temp`
 FROM `temperatures`
 WHERE `month` = 7 OR `month` = 8
 GROUP BY `city`
